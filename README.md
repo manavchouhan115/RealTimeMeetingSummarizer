@@ -24,7 +24,7 @@ This project is a Chrome extension and FastAPI server that records audio from a 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MadhavWalia/project.git
+   git clone https://github.com/manavchouhan115/RealTimeMeetingSummarizer.git
    cd project
    ```
 
